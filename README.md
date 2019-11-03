@@ -1,5 +1,5 @@
 # test
-1) First task didn't comptele. Have problems with PHP, didn't work with it. But tried to do what i found and internet. 
+1) First task didn't comptele. Have problems with PHP, didn't work with it. But tried to do what i found in the internet. 
 2) Did it well. Simpe css for slider. Change some css for slick-slider, becouse have some problems with arrow (changed their position)
 Githab link - https://mattnovik.github.io/task02/
 3) Third did well. I have use my own images (svg). You can download my code at you PC and run -gulp bash (need some dependency) and it will run. 
